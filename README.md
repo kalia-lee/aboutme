@@ -1,3 +1,6 @@
+# Live View 
+[Deployed App](https://kalia-lee.github.io/aboutme)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
